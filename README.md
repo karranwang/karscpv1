@@ -57,13 +57,14 @@ Proyek ini murni dibuat oleh author, jika berminat silahkan hubungi melalui emai
 ### 📌 Tampilan Percakapan Grup WhatsApp
 ![Preview 1](images1.jpg)
 
-### 📌 Balasan dengan Gambar Otomatis
 ![Preview 2](images2.jpg)
 
 ---
 
 ## 🎥 Demo
-https://github.com/karranwang/karscpv1/blob/main/karscpv1.gif
+
+![Demo](https://github.com/karranwang/karscpv1/blob/main/karscpv1.gif?raw=true)
+
 
 > 💡 Klik link di atas untuk melihat langsung simulasi percakapan hingga redirect.
 
