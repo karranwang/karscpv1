@@ -5,7 +5,7 @@ Tampilan grup WhatsApp yang dirancang untuk memberikan kesan percakapan real-tim
 
 ---
 
-## 🟢 FITUR
+## 🟢 FITUR DI DALAM
 
 ### 1. ✅ Simulasi Chat WhatsApp Grup
 - Menampilkan percakapan grup secara otomatis.
@@ -50,6 +50,24 @@ Untuk mencegah pencurian atau penyalahgunaan:
 Proyek ini murni dibuat oleh author, jika berminat silahkan hubungi melalui email **karranwang666@gmail.com**.  
 **Penggunaan atau penyalahgunaa script ini bukan menjadi tanggung jawab author, melainkan sepenuhnya menjadi tanggung jawab pengguna.**  
 
+---
+
+## 🖼️ Preview Gambar
+
+### 📌 Tampilan Percakapan Grup WhatsApp
+![Preview 1](images1.jpg)
+
+### 📌 Balasan dengan Gambar Otomatis
+![Preview 2](images2.jpg)
+
+---
+
+## 🎥 Demo Video
+
+### 📺 Simulasi Langsung
+https://github.com/karranwang/karscpv1/raw/main/karscpv1.mp4
+
+> 💡 Klik link di atas untuk melihat langsung simulasi percakapan hingga redirect.
 
 ---
 
