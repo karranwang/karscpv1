@@ -1,11 +1,11 @@
-# 🧿 Script Phishing WhatsApp Group Simulation  
+# Script Phishing Tampilan Grup WhatsApp 18+ 
 **Made by [@karranwang](https://github.com/karranwang)**  
 
-Simulasi tampilan grup WhatsApp yang dirancang untuk memberikan kesan percakapan real-time, lengkap dengan balasan otomatis, efek "sedang mengetik...", dan pengalihan ke halaman login secara otomatis.  
+Simulasi tampilan grup WhatsApp yang dirancang untuk memberikan kesan percakapan real-time, lengkap dengan balasan otomatis, efek "sedang mengetik...", dan pengalihan secara otomatis.  
 
 ---
 
-## 🟢 FITUR-FITUR UTAMA
+## 🟢 FITUR DI DALAM
 
 ### 1. ✅ Simulasi Chat WhatsApp Grup
 - Menampilkan percakapan grup secara otomatis.
