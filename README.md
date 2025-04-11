@@ -47,9 +47,9 @@ Untuk mencegah pencurian atau penyalahgunaan:
 ---
 
 ## ⚠️ Disclaimer
-Proyek ini dibuat hanya untuk **edukasi, simulasi UI/UX**, dan **tujuan pembelajaran**.  
-**Dilarang digunakan untuk tujuan ilegal, phising, atau merugikan orang lain.**  
-Penggunaan script ini sepenuhnya tanggung jawab pengguna.
+Proyek ini murni dibuat oleh author, jika berminat silahkan hubungi melalui email **karranwang666@gmail.com**.  
+**Penggunaan atau penyalahgunaa script ini bukan menjadi tanggung jawab author, melainkan sepenuhnya menjadi tanggung jawab pengguna.**  
+
 
 ---
 
