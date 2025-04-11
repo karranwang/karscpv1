@@ -21,7 +21,7 @@ Simulasi tampilan grup WhatsApp yang dirancang untuk memberikan kesan percakapan
 - Jika `reply` diawali dengan `#`, maka akan menampilkan gambar dengan nama sesuai tag (`#teenage` → `teenage.jpg`).
 - Jika tidak, reply ditampilkan sebagai balasan teks biasa.
 
-### 4. 🔄 Redirect Otomatis ke `login.php`
+### 4. 🔄 Redirect Otomatis
 - Setelah semua pesan selesai, halaman langsung berpindah ke halaman login tanpa interaksi pengguna.
 
 ### 5. 🎨 Tampilan UI yang Responsif dan Mirip WhatsApp
@@ -34,28 +34,15 @@ Simulasi tampilan grup WhatsApp yang dirancang untuk memberikan kesan percakapan
 - Tampilan tetap optimal di perangkat mobile.
 
 ### 7. 📦 Struktur Modular & Terorganisir
-- **`index.html`** → Struktur halaman utama.
-- **`style.css`** → Style dan layout visual.
-- **`script.js`** → Logika chat dan animasi dinamis.
+- Struktur Halaman yang Modular
 - Mudah dikembangkan atau dikustomisasi.
-
----
-
-## ✨ Potensi Pengembangan (Optional)
-Fitur tambahan yang bisa diterapkan:
-- Tombol kirim pesan (interaksi dari pengguna).
-- Sistem autentikasi login yang sebenarnya (`login.php`).
-- Tambahan animasi atau efek transisi.
-- Deteksi perangkat (hanya redirect di mobile).
-- Sound notifikasi seperti "ping" saat pesan masuk.
 
 ---
 
 ## 🔐 Keamanan & Perlindungan Kode
 Untuk mencegah pencurian atau penyalahgunaan:
-- Obfuscate/meminify file **JavaScript** dan **CSS**.
+- Beberapa File sudah di Obfuscate
 - Blok akses developer tools jika diperlukan (opsional).
-- Gunakan server-side logic untuk melindungi data sensitif.
 
 ---
 
