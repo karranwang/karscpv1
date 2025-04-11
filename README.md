@@ -54,10 +54,14 @@ Proyek ini murni dibuat oleh author, jika berminat silahkan hubungi melalui emai
 
 ## 🖼️ Preview Gambar
 
-### 📌 Tampilan Percakapan Grup WhatsApp
+### 📌 Tampilan 
 ![Preview 1](images1.jpg)
 
 ![Preview 2](images2.jpg)
+
+![Preview 3](images3.jpg)
+
+![Preview 4](images4.jpg)
 
 ---
 
