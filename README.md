@@ -5,7 +5,7 @@ Tampilan grup WhatsApp yang dirancang untuk memberikan kesan percakapan real-tim
 
 ---
 
-## 🟢 FITUR DI DALAM
+## 🟢 FITUR
 
 ### 1. ✅ Simulasi Chat WhatsApp Grup
 - Menampilkan percakapan grup secara otomatis.
